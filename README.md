@@ -1,0 +1,2 @@
+# km-post-type
+post
